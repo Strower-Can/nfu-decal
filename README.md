@@ -1,0 +1,2 @@
+# nfu-decal
+outfit logo
